@@ -1,2 +1,2 @@
-#MountainShooter - Disciplina Linguagem de Programação Aplicada
-Repositório destinado às aulas práticas da disciplina da universidade.
+## MountainShooter - Disciplina Linguagem de Programação Aplicada
+- Repositório destinado às aulas práticas da disciplina da universidade.
